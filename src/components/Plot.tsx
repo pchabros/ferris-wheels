@@ -151,7 +151,7 @@ const Plot: FC<PlotProps> = ({ data }) => {
           plotHeight / 2
         })`}
       >
-        <text className="legend-title">Diameter</text>
+        <text className="legend-title">Diameter [ft]</text>
         {legend}
         <g className="size-axis" ref={sizeAxisRef}></g>
         <text id="hovered-diameter" transform="translate(0, 80)"></text>
