@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f25375b5.css",
-    "main.js": "/static/js/main.e1436f53.js",
-    "static/js/787.8361b55f.chunk.js": "/static/js/787.8361b55f.chunk.js",
-    "index.html": "/index.html",
-    "main.f25375b5.css.map": "/static/css/main.f25375b5.css.map",
-    "main.e1436f53.js.map": "/static/js/main.e1436f53.js.map",
-    "787.8361b55f.chunk.js.map": "/static/js/787.8361b55f.chunk.js.map"
+    "main.css": "/ferris-wheels/static/css/main.f25375b5.css",
+    "main.js": "/ferris-wheels/static/js/main.0614bfcb.js",
+    "static/js/787.8361b55f.chunk.js": "/ferris-wheels/static/js/787.8361b55f.chunk.js",
+    "index.html": "/ferris-wheels/index.html",
+    "main.f25375b5.css.map": "/ferris-wheels/static/css/main.f25375b5.css.map",
+    "main.0614bfcb.js.map": "/ferris-wheels/static/js/main.0614bfcb.js.map",
+    "787.8361b55f.chunk.js.map": "/ferris-wheels/static/js/787.8361b55f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f25375b5.css",
-    "static/js/main.e1436f53.js"
+    "static/js/main.0614bfcb.js"
   ]
 }
