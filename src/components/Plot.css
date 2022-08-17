@@ -1,0 +1,40 @@
+.domain {
+  display: none;
+}
+.y-axis > .tick > text {
+  transform: translateX(-10px);
+}
+.y-axis > .tick > line {
+  stroke-width: 0.3;
+  stroke-dasharray: 2 2;
+}
+.x-axis > .tick > line {
+  stroke-width: 0.1;
+}
+.size-axis > .tick > line {
+  stroke-width: 0.2;
+  transform: translateY(-0.5px);
+}
+.legend-title {
+  font-size: 14px;
+  text-anchor: middle;
+  transform: translateY(-10px);
+}
+.axis-title {
+  fill: black;
+  font-size: 14px;
+}
+circle {
+  cursor: pointer;
+}
+.hovered-diameter {
+  transform: translate(0, 80px);
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.hovered-diameter-active {
+  transform: translate(0, 85px);
+  opacity: 1;
+  transition: all 0.3s;
+}
