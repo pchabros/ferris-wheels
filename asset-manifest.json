@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ferris-wheels/static/css/main.f25375b5.css",
-    "main.js": "/ferris-wheels/static/js/main.0614bfcb.js",
+    "main.js": "/ferris-wheels/static/js/main.8803454a.js",
     "static/js/787.8361b55f.chunk.js": "/ferris-wheels/static/js/787.8361b55f.chunk.js",
     "index.html": "/ferris-wheels/index.html",
     "main.f25375b5.css.map": "/ferris-wheels/static/css/main.f25375b5.css.map",
-    "main.0614bfcb.js.map": "/ferris-wheels/static/js/main.0614bfcb.js.map",
+    "main.8803454a.js.map": "/ferris-wheels/static/js/main.8803454a.js.map",
     "787.8361b55f.chunk.js.map": "/ferris-wheels/static/js/787.8361b55f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f25375b5.css",
-    "static/js/main.0614bfcb.js"
+    "static/js/main.8803454a.js"
   ]
 }
