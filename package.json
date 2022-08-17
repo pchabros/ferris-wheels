@@ -1,5 +1,6 @@
 {
   "name": "ferris-wheels",
+  "homepage": "https://pchabros.github.io/ferris-wheels/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,6 +22,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -44,6 +47,7 @@
   },
   "devDependencies": {
     "@types/d3": "^7.4.0",
-    "@types/ramda": "^0.28.15"
+    "@types/ramda": "^0.28.15",
+    "gh-pages": "^4.0.0"
   }
 }
